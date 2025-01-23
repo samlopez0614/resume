@@ -4,3 +4,4 @@
 
 ## Education
 - BSc. Geophysics, Colorado School of Mines(2027)
+- High school diploma
