@@ -3,6 +3,7 @@
 
 - Email: samanthalopez@mines.edu
 - Location: Golden, CO
+- [linkedin](https://www.linkedin.com/in/samantha-lopez-031120289/)
 
 ## Education
 - BSc. Geophysics, Colorado School of Mines(2027)
